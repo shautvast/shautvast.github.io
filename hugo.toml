@@ -1,0 +1,4 @@
+baseURL = 'https://shautvast.hithub.io/'
+languageCode = 'en-us'
+title = 'TiPi-lang'
+theme = 'ananke'

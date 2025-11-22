@@ -2,3 +2,7 @@ baseURL = 'https://shautvast.github.io/'
 languageCode = 'en-us'
 title = 'TiPi-lang'
 theme = 'ananke'
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
